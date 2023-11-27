@@ -1,2 +1,2 @@
 # Sentiment Analysis
-Sentiment Analysis on IMDB Movie Reviews using an LSTM model
+Implemented Sentiment Analysis on IMDB Movie Reviews utilizing a Long Short-Term Memory (LSTM) model in Python. Developed and trained the LSTM model to analyze the sentiment expressed in movie reviews, distinguishing between positive and negative sentiments. Preprocessed textual data, tokenized sequences, and employed word embeddings to capture semantic meaning. Utilized the Keras library to construct and train the LSTM neural network.
